@@ -56,6 +56,9 @@ h1{
     font-size: 16px;
     margin-right: 140px;
 }
+#forgot:hover{
+    cursor: pointer;
+}
 #signup {
     margin-top: 40px;
     font-size: 22px;
